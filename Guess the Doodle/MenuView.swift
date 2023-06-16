@@ -52,7 +52,7 @@ struct MenuView: View {
         Image("menuBg")
         .resizable()
         .scaledToFill()
-        .scaleEffect(1.1))
+        .scaleEffect(1.3))
         .ignoresSafeArea()
     }
         

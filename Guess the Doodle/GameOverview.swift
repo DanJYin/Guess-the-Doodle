@@ -55,7 +55,7 @@ struct GameOverview: View {
         Image("gameOverBg")
         .resizable()
         .scaledToFill()
-        .scaleEffect(1.1))
+        .scaleEffect(1.3))
         .ignoresSafeArea()
     }
 }
